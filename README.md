@@ -22,7 +22,8 @@ The goal of this project is to analyze product pricing, customer ratings, and re
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
+```
 amazon-product-analysis/
 │
 ├── data/
@@ -49,6 +50,7 @@ amazon-product-analysis/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
@@ -67,10 +69,12 @@ amazon-product-analysis/
 ## 📊 Dashboard Preview
 
 ### Products Analysis
-![Products Dashboard](dashboard/products_dashboard.png)
+![Products Dashboard](dashboard/products_dashboard.PNG)
 
 ### Reviews Analysis
-![Reviews Dashboard](dashboard/reviews_dashboard.png)
+![Reviews Dashboard](dashboard/reviews_dashboard.PNG)
+
+Interactive dashboard build in Power BI to explore pricing, ratings and customer behavior.
 
 ---
 
