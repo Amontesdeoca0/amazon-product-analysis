@@ -30,7 +30,7 @@ amazon-product-analysis/
 │ ├── raw/
 │ │ └── AmazonData.xlsx
 │ ├── processed/
-│ │ └── AmazonData_clean.xlsx
+│ └── AmazonData_clean.xlsx
 │
 ├── notebooks/
 │ ├── 01_data_cleaning.ipynb
@@ -118,7 +118,7 @@ Interactive dashboard build in Power BI to explore pricing, ratings and customer
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/amazon-product-analysis.git
+git clone https://github.com/Amontesdeoca0/amazon-product-analysis.git
 
 2. Install dependencies(optional):
 pip install -r requirements.txt
@@ -137,7 +137,7 @@ python src/scraper.py
 
 ## 👤 Author
 
-Adolfo Montes de Oca  
+Adolfo José Montes de Oca López  
 Data Analyst Project Portfolio
 
 ---
