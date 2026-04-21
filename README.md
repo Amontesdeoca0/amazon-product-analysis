@@ -56,13 +56,17 @@ amazon-product-analysis/
 
 ## 🔍 Key Insights
 
-- Over **80% of products have ratings ≥ 4.5**, indicating strong positive bias.
-- Most products are priced between **$15–$20 USD**, suggesting a competitive pricing cluster.
-- Review distribution follows a **long-tail pattern**:
-  - Few products accumulate thousands of reviews
-  - Majority have low review counts
-- Verified purchases represent **~99% of reviews**, increasing data reliability.
-- No strong correlation between **price and rating**, meaning cheaper products can still be highly rated.
+- Over 80% of products have ratings ≥ 4.5, indicating a strong positive rating bias across the platform.
+
+- Most products are priced between $15–$20 USD, suggesting a highly competitive pricing cluster where many sellers converge.
+
+- Review distribution follows a long-tail pattern:
+  - A small number of products accumulate a very high volume of reviews
+  - The majority of products have relatively low review counts
+
+- Verified purchases represent ~99% of reviews, increasing the reliability and credibility of the dataset.
+
+- There is no strong correlation between price and rating, indicating that lower-priced products can achieve high customer satisfaction levels.
 
 ---
 
@@ -89,12 +93,19 @@ Interactive dashboard build in Power BI to explore pricing, ratings and customer
 
 ---
 
-## 📈 Business Impact
+## 📈 Key Conclusions & Business Implications
 
-- Identify pricing sweet spots for competitive positioning
-- Detect highly rated products regardless of price
-- Understand customer behavior through review patterns
-- Support data-driven decision-making in e-commerce strategies
+- The strong positive rating bias (80% ≥ 4.5) suggests that ratings alone may not be sufficient to differentiate product quality, requiring additional metrics such as review volume or sentiment analysis.
+
+- The concentration of products within the $15–$20 price range indicates a highly competitive market segment, where differentiation through branding, reviews, or product features becomes critical.
+
+- The long-tail distribution of reviews highlights the importance of visibility and customer engagement, as a small number of products dominate in terms of review volume and perceived credibility.
+
+- The lack of correlation between price and rating suggests that competitive pricing does not guarantee higher customer satisfaction, allowing lower-priced products to compete effectively on quality.
+
+- The high percentage of verified purchases (~99%) increases confidence in the data and supports the reliability of insights derived from customer reviews.
+
+- Overall, the analysis indicates that successful product positioning in e-commerce depends more on visibility, customer engagement, and differentiation rather than price alone.
 
 ---
 
